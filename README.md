@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ravindran Dhanushkar</h1>
-<h3 align="center">A passionate frontend developer from Matale, Sri Lanka</h3>
+<h3 align="center">A passionate FULL STACK developer from Matale, Sri Lanka</h3>
 <h3 align="center">Following BSc.Computer Science at University of Jaffna</h3>
 
 <img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932" alt="Coding" width="400" align="right">
