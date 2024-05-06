@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdhanushkar&label=Profile%20views&color=0e75b6&style=flat" alt="rdhanushkar" /> </p>
 
-- 🔭 I’m currently working on **Glenzsoft.Pvt.Ltd**
-
-- 🌱 I’m currently learning **ASP.NET C#**
+- 🌱 I’m currently learning **Salesforce**
 
 - 📫 How to reach me **dhanushkar1220@gmail.com**
 
